@@ -14,3 +14,17 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.logo{
+  position: absolute;
+  top: -40px;
+  left: 300px;
+
+}
+.MuiBreadcrumbs-separator{
+  color: red;
+  font-size: 25px;
+  position: relative;
+  top: -2px;
+  }
+
